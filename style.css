@@ -1,0 +1,68 @@
+#travel{
+    color: aliceblue;
+    
+}
+
+
+
+
+.travel_maimDiv{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+
+.travel_mainDiv img{
+    width: 230px;
+
+}
+
+.travekl_mainDiv h5 , .travel_mainDiv p{
+    margin-left: 20px;
+    
+}
+
+h2{
+   color: darkgreen
+    
+}
+
+h3{
+    color: darkgreen
+    
+}
+
+h4{
+    color: darkgreen
+    
+    
+}
+
+.environment_li{
+    margin-top: 13px;
+    
+}
+
+.environment_li h4{
+    
+    border-bottom:1px solid white;
+    padding: 8px;
+    
+}
+
+.environment_li p{
+    border-radius: 25px;
+    
+    }
+
+.environment_li p{
+    margin-top: 10px;
+    
+}
+
+body{
+    background-color: aliceblue
+    
+}
